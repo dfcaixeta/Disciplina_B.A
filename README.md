@@ -21,15 +21,14 @@ Unidade 01 - Gestão Ágil/Business Agility_FBr
 
 Referências
 
-UNIDADE 02
-4. OS PILARES DA GESTÃO ÁGIL/BUSINESS AGILITY
+Unidade 02 - Gestão Ágil/Business Agility_FBr
+4. Os pilares da Gestão Ágil/Business Agility
 4.1. Os pilares [...].
-5. METODOLOGIAS ÁGEIS
+
+5. Metodologias Ágeis
 5.1. SCRUM.
 5.2. Extreme Programming (XP).
 5.3. Kanban.
 5.4. Lean Startup.
 
 Referências
-
-
