@@ -22,6 +22,7 @@ Unidade 01 - Gestão Ágil/Business Agility_FBr
 Referências
 
 Unidade 02 - Gestão Ágil/Business Agility_FBr
+
 4. Os pilares da Gestão Ágil/Business Agility
 4.1. Os pilares [...].
 
