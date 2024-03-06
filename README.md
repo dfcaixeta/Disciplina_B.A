@@ -22,7 +22,6 @@ Unidade 01 - Gestão Ágil/Business Agility_FBr
 Referências
 
 Unidade 02 - Gestão Ágil/Business Agility_FBr
-
 4. Os pilares da Gestão Ágil/Business Agility
 4.1. Os pilares [...].
 
@@ -31,5 +30,23 @@ Unidade 02 - Gestão Ágil/Business Agility_FBr
 5.2. Extreme Programming (XP).
 5.3. Kanban.
 5.4. Lean Startup.
+
+Referências
+
+UNIDADE 03
+6. IMPLEMENTANDO A GESTÃO ÁGIL (BUSINESS AGILITY)
+6.1. Introdução.
+6.2. Diagnosticando a organização.
+6.3. Desenvolvendo uma visão ágil.
+6.4. Como desenvolver um programa de treinamento e capacitação de equipes para as práticas da Gestão Ágil/Busi-ness Agility.
+
+7. FERRAMENTAS E TECNOLOGIAS DE SUPORTE
+7.1. Introdução.
+7.2. Software de gerenciamento de projetos ágeis.
+7.3. Comunicação e colaboração online.
+7.4. Automação de processos.
+
+8. OS DESAFIOS NA IMPLEMENTAÇÃO [...]
+8.1. Os desafios […]
 
 Referências
