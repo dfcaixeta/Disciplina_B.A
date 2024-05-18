@@ -52,3 +52,22 @@ Unidade 03 - Gestão Ágil/Business Agility_FBr
 8.1. Os desafios […]
 
 Referências
+
+Unidade 04 - Gestão Ágil/Business Agility_FBr
+
+9. MÉTRICAS DE SUCESSO
+9.1. Velocidade de entrega.
+9.2. Satisfação do cliente.
+9.3. Qualidade do produto.
+9.4. Engajamento da equipe.
+9.5. Eficiência operacional.
+9.6. Valor de negócio entregue.
+   
+11. ESTUDOS DE CASOS
+10.1. Exemplos de empresas que adotaram a gestão ágil com sucesso.
+10.2. Lições aprendidas.
+
+13. LIÇÕES APREENDIDAS
+11.1. As lições [...].
+
+Referências
