@@ -16,7 +16,7 @@ Unidade 01 - Gestão Ágil/Business Agility_FBr
 
 3. Fundamentos da Gestão Ágil/Business Agility
 3.1. Agilidade organizacional versus Agilidade de negócios.
-3.2. Princípios do Manifesto ágil no ambiente corporativo.
+3.2. Princípios do Manifesto ágil.
 3.3. A gestão ágil na cultura de experimentação e aprendizado.
 
 Referências
